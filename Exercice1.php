@@ -22,6 +22,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
+// Test Charge
+
 <!DOCTYPE html>
 <html lang="es">
 <body>
